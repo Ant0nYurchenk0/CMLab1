@@ -1,0 +1,8 @@
+C:\Users\anyur\Documents\C#\CM\CMLab1\CMLab1\bin\Debug\CMLab1.exe.config
+C:\Users\anyur\Documents\C#\CM\CMLab1\CMLab1\bin\Debug\CMLab1.exe
+C:\Users\anyur\Documents\C#\CM\CMLab1\CMLab1\bin\Debug\CMLab1.pdb
+C:\Users\anyur\Documents\C#\CM\CMLab1\CMLab1\obj\Debug\CMLab1.csproj.AssemblyReference.cache
+C:\Users\anyur\Documents\C#\CM\CMLab1\CMLab1\obj\Debug\CMLab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\anyur\Documents\C#\CM\CMLab1\CMLab1\obj\Debug\CMLab1.csproj.CoreCompileInputs.cache
+C:\Users\anyur\Documents\C#\CM\CMLab1\CMLab1\obj\Debug\CMLab1.exe
+C:\Users\anyur\Documents\C#\CM\CMLab1\CMLab1\obj\Debug\CMLab1.pdb
